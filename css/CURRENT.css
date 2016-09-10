@@ -1,0 +1,26 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h2 { font-family: Roboto, 'Roboto Serif', serif; color:red;
+	font-size: 35px;
+}
+
+.nav {font-family: Roboto, 'Roboto Serif', serif; color: white; font-size: 20px; font-weight: bold;
+}
+.nav { 
+    margin-top:0px; height: 45px; background: RED;
+}
+.nav ul { margin:0; padding:0;
+}
+.nav ul li {
+    list-style: none; 
+}
+.nav ul a { text-decoration: none; float: right; display: block; padding: 10px 20px; color: white;
+}
+.nav ul li a:hover { color: #CAC8CA; }
+
+.info { font-family: Roboto, 'Roboto Serif', serif; color: #CAC8CA; font-size: 15px; }
